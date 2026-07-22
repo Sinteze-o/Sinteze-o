@@ -1,16 +1,52 @@
-## Hi there 👋
+# Sinteze — Automação & Sistemas 🚀
 
-<!--
-**Sinteze-o/Sinteze-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Automação de processos, CRM e sistemas sob medida para o seu negócio.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Sobre a Sinteze
+
+- ⚙️ Transformamos processos manuais e repetitivos em **fluxos automatizados**.
+- 📊 Desenvolvemos e integramos **CRM** e sistemas sob medida para cada operação.
+- 🔗 Conectamos as ferramentas que você já usa (planilhas, e-mail, agenda, WhatsApp).
+- 🎯 Nosso objetivo é simples: **fazer você economizar tempo** e crescer com organização.
+
+---
+
+## 💡 O que fazemos
+
+| Serviço | Descrição |
+|---|---|
+| 🤖 **Automação de processos** | Integração de sistemas e automação de tarefas repetitivas |
+| 🗂️ **CRM sob medida** | Gestão de leads, clientes e funil de vendas |
+| 🧩 **Sistemas personalizados** | Ferramentas web feitas para o seu negócio |
+| 📅 **Integrações** | Agenda, e-mail, planilhas e APIs conectadas de ponta a ponta |
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google APIs](https://img.shields.io/badge/Google%20APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🌐 Contato & Redes
+
+[![Site](https://img.shields.io/badge/Site-sinteze.com.br-00C853?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sinteze.com.br)
+[![E-mail](https://img.shields.io/badge/E--mail-contato@sinteze.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@sinteze.com.br)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+
+---
+
+<div align="center">
+
+**Sinteze** — menos tarefa manual, mais resultado. ✨
+
+</div>
